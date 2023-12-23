@@ -18,8 +18,8 @@
 
 |      이혜민       |          유나경         |                                                                                                   
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    <img src="https://avatars.githubusercontent.com/u/93399234?v=4" width="170" alt="깃허브계정-프로필사진"> |            <img src="https://i.namu.wiki/i/y7qTOOIL6nIa2cXybk511OASqwAGMgZiNjh6CtErz0ust7MPJaztzSYiypYevehQOjdJc-TQvTctUk7N629V7A.webp" width="170" alt="깃허브계정-프로필사진">    |
-|   [@ihyemin39_archive](https://www.instagram.com/ihyemin39_archive/)   |    [@Nakyungkungya]()  |
+|    <img src="https://avatars.githubusercontent.com/u/93399234?v=4" width="170" alt="깃허브계정-프로필사진"> |            <img src="https://avatars.githubusercontent.com/u/63281407?v=4" width="170" alt="깃허브계정-프로필사진">    |
+|   [@ihyemin39_archive](https://www.instagram.com/ihyemin39_archive/)   |    [@Nak11](https://github.com/Nak11)  |
 | Product Manager | Design |
 <br/>
 
