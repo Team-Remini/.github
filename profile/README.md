@@ -25,8 +25,8 @@
 
 |      최서현       |          오유은         |       유승한        |       박수영        |                                                                                                    
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   <img src="https://avatars.githubusercontent.com/u/104755384?v=4" width="170" alt="깃허브계정-프로필사진"> |            <img src="https://avatars.githubusercontent.com/u/122276414?v=4" width="170" alt="깃허브계정-프로필사진">   |                 <img src="https://avatars.githubusercontent.com/YEJIRYOO" width="170" alt="깃허브계정-프로필사진">   |                 <img src="https://avatars.githubusercontent.com/u/50361496?v=4" width="170" alt="깃허브계정-프로필사진">  |
-|   [@candosh](https://github.com/candosh)   |    [@yueunfive](https://github.com/yueunfive)  | [@ryuseunghan](https://avatars.githubusercontent.com/u/106146847?v=4)  | [@clap-0](https://github.com/clap-0)  |
+|   <img src="https://avatars.githubusercontent.com/u/104755384?v=4" width="170" alt="깃허브계정-프로필사진"> |            <img src="https://avatars.githubusercontent.com/u/122276414?v=4" width="170" alt="깃허브계정-프로필사진">   |                 <img src="https://avatars.githubusercontent.com/u/106146847?v=4" width="170" alt="깃허브계정-프로필사진">   |                 <img src="https://avatars.githubusercontent.com/u/50361496?v=4" width="170" alt="깃허브계정-프로필사진">  |
+|   [@candosh](https://github.com/candosh)   |    [@yueunfive](https://github.com/yueunfive)  | [@ryuseunghan](https://github.com/ryuseunghan)  | [@clap-0](https://github.com/clap-0)  |
 | Frontend | Frontend | Backend | Backend |
 
 ## ⭐️ 멋쟁이사자처럼 겨울잠 프로젝트 대상 ⭐️
