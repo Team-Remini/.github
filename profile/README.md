@@ -30,4 +30,5 @@
 | Frontend | Frontend | Backend | Backend |
 
 ## ⭐️ 멋쟁이사자처럼 겨울잠 프로젝트 대상 ⭐️
- <img src="https://github.com/Team-Remini/.github/assets/104755384/4a3b774e-096c-4d3e-8f03-4f46d2bd1894" width="500px" alt="https://your-custom-url.com"/>
+
+ <img src="https://github.com/Team-Remini/.github/assets/104755384/e7a5184e-7e28-461b-b696-f3e8cba80412" width="520px" alt="https://your-custom-url.com"/>
